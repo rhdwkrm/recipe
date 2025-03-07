@@ -1,8 +1,6 @@
 {
     "aliases": [],
     "copy-from-recipe": {
-        "assets/": "assets/",
-        "config/": "%CONFIG_DIR%/",
-        "templates/": "templates/"
+        "config/": "%CONFIG_DIR%/"
     }
 }
